@@ -1,3 +1,6 @@
-The Exhibition Noble Qur'an Of Fatoni University
+# The Exhibition Noble Qur'an Of Fatoni University - นิทรรศการมหาคัมภีร์อัลกุรอาน มหาวิทยาลัยฟาฏอนี
 
-นิทรรศการมหาคัมภีร์อัลกุรอาน มหาวิทยาลัยฟาฏอนี
++ อัลกุรอานภาษาโลก(Qur'an World), Malay, Thai, Indonesia, Khmer, India and Chinese
++ อัลกุรอานเบรลล์ อัลกุรอานเพื่อผู้พิการทางสายตา
++ ประวัติอัลกุรอานสมัยคอลีฟะห์อุสมาน
++ อรรถาธิบาย(ตัฟซีร์)อัลกุรอานซูเราะฮ์อัลฟาติฮะฮในภาษาจีน ตุรกี ญี่ปุน อินโดนีเซีย อูรดู
